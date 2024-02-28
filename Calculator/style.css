@@ -1,0 +1,44 @@
+
+/* .h1{
+    text-align: center;
+} */
+
+
+
+.bg-red{
+    margin: auto;
+    max-width: 30vw;
+    flex-direction: column;
+    display: flex;
+    align-items: center; 
+    border: 2px solid black;
+    border-radius:10px ;
+}
+
+
+.button{
+    width: 60px;
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black ;
+    border-radius:9px ;
+    cursor: pointer;
+    background-color: rgb(49, 49, 99);;
+color: aliceblue;
+}
+
+
+.row{
+    margin: 10px 0; 
+}
+
+
+
+.input{
+    margin: 0;
+    padding: 10px 0px; 
+    border: 2px solid black; 
+    border-radius: 5px;
+    text-align: center;
+    font-size: 20px;  
+}
